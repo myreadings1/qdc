@@ -1,5 +1,5 @@
 # qdc2
-qdc
+Oracle datauard
 
 ````
 ```
