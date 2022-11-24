@@ -1,11 +1,13 @@
 # qdc2
-Oracle datauard
+## Orcl dg config steps:
 
-````
+
+
+```
 ```
 Look! You can see my backticks.
 ```
-````
+```
 
 
 ```
