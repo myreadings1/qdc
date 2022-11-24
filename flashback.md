@@ -1,5 +1,31 @@
 \section{Flashback}
 
+# qdc2
+## Orcl dg config steps:
+
+
+
+```
+```
+Look! You can see my backticks.
+```
+```
+
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
+
 \begin{lstlisting}
 $date_2
 Sat Jun  1 14:31:01 CEST 2019
