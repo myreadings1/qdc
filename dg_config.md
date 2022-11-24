@@ -1,6 +1,6 @@
 # qdc2
 ## Orcl dg config steps:
-
+### Directives
 
 
 ```
