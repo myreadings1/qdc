@@ -1,2 +1,1 @@
-# qdc
-qdc
+# This is main file for this docs.
